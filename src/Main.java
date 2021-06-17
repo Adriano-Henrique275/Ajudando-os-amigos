@@ -7,9 +7,8 @@ public class Main {
         controle.listarTodosCrientes();
         
         System.out.println("------------------");
-        
-        cli.ListarClientes();
 
+        cli.ListarClientes();
         
     }
 }

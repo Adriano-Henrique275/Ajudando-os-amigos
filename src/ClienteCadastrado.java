@@ -13,7 +13,6 @@ public class ClienteCadastrado extends Pessoa {
     public void setIdCliente(int idCliente){
         this.idCliente = idCliente;
     }
-
     
     public void ListarClientes(){
 

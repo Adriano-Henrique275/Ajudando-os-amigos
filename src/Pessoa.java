@@ -5,6 +5,7 @@ public class Pessoa {
     private int idade;
 
     public void Pessoa(){
+        
         // Método construtor padrão
     }
 

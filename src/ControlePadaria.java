@@ -18,7 +18,6 @@ public class ControlePadaria {
         for (String strLista : listaDasPadarias) {
             System.out.println(strLista);
         }
-
     }
 
     public void listarTodosCrientes(){

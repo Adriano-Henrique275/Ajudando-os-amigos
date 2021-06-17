@@ -4,8 +4,7 @@ public class Pessoa {
     private String fone;
     private int idade;
 
-    public void Pessoa(){
-        
+    public void Pessoa(){  
         // Método construtor padrão
     }
 

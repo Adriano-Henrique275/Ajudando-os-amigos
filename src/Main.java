@@ -1,15 +1,15 @@
 public class Main {
     public static void main(String[] args) {
 
-        Pessoa pessoa = new Pessoa();
         ControlePadaria controle = new ControlePadaria();
         ClienteCadastrado cli = new ClienteCadastrado();
 
         controle.listarTodosCrientes();
-
+        
+        System.out.println("------------------");
+        
         cli.ListarClientes();
 
-        System.out.println("Texto para teste");
         
     }
 }
